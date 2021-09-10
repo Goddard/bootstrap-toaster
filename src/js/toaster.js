@@ -26,7 +26,8 @@ const DefaultTitle = {
     icon    : null,
     image   : null,
     close   : true,
-    info    : false
+    info    : false,
+    type: ''
 }
 
 let ToasterObject;
